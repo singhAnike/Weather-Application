@@ -3,7 +3,7 @@
 ![](weather.gif)
 
 ### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
+https://github.com/singhAnike/Weather-Application
 
 ### Full development Tutorial 
 [Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
